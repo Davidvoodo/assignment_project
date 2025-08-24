@@ -1,5 +1,11 @@
 from datetime import datetime
 
-print("Welcome to Git Assignment")
+def main():
+    print("Hello World")
+    print("Welcome to Git Assignment")
+    print("My name is: David Mizrahi")
+    print("Current date and time:", datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
 
-print("My name is:  David Mizrahi")
+if __name__ == "__main__":
+    main()
+
