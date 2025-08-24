@@ -2,4 +2,4 @@ from datetime import datetime
 
 print("Welcome to Git Assignment")
 
-print("My name is: דויד מזרחי")
+print("My name is:  David Mizrahi")
